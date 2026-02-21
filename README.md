@@ -1,17 +1,15 @@
-# The Reasoning Refinery Protocol (RRP-V1)
+# The Physical Commonsense Protocol (PCP-V1)
 
-## System Overview
-The Reasoning Refinery is a decentralized, open-source protocol designed to bridge the "Intelligence Gap" in medical AI development. We coordinate a global network of human refiners to transform raw, noisy AI outputs into high-precision "Golden Datasets" using Chain-of-Thought (CoT) verification.
+## The Vision
+To solve the "Physical Intelligence Gap" in AI. We coordinate a global network of "Logical Refiners" to build the world's most accurate dataset of physical world reasoning and spatial logic.
 
-## The Architecture
-1. **Source:** We target auto-generated medical datasets with high error rates.
-2. **Refinement:** Human operators (Refiners) apply the RRP-V1 logic manual to verify clinical accuracy and step-by-step reasoning.
-3. **Consensus:** Contributions are weighted by a cryptographic consensus mechanism to ensure data integrity.
+## The Problem
+Current AI models understand words but fail at "Common Sense." They don't understand gravity, friction, or spatial consequences. PCP-V1 provides the "Real-World Brain" for the next generation of Robotics and Vision-AI.
 
-## Economic Model
-This protocol operates as a Decentralized Unincorporated Association. 
-- **90% Distribution:** Fees from data acquisition partners (AI Labs) are distributed to contributors via the Protocol Smart Contract.
-- **10% Protocol Reserve:** Allocated for infrastructure and brokerage operations.
+## The Economic Protocol
+- **Architecture:** Decentralized Unincorporated Association (DUA).
+- **90% Payout:** Distributed to human refiners via the Smart Contract.
+- **10% Fee:** Allocated to Architect-0 for protocol maintenance and brokerage.
 
-## Recruitment
-Phase 1 (Genesis Set) is now open. We are accepting the first 100 anonymous contributors to finalize the 5,000-row logic sample.
+## Status
+Recruiting 100 "Genesis Refiners" for the first 5,000-row Spatial Logic Set.
